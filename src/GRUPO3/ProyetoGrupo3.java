@@ -4,10 +4,7 @@
  */
 package GRUPO3;
 
-/**
- *
- * @author ander
- */
+                                                    
 public class ProyetoGrupo3 {
 
     /**
